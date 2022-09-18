@@ -1,6 +1,6 @@
 .uno1{
-    background-color: rgb(255, 0, 100);
-    font-family: 'verdana', 'DejaVu-sans', 'sans-serif' ;
+    background-color: rgb(255, 167, 167);
+    font-family: verdana, "DejaVu-sans", sans-serif ;
     font-size: 24px;
 
 }
@@ -17,8 +17,6 @@ font-size: 30px;
     background-color: rgb(0, 250, 0, 0.5);
     font-size: 40px;
 }
-.uno5{
-    background-color: rgb(255, 0, 100);
-    font-family: 'verdana', 'DejaVu-sans', 'sans-serif' ;
+.child{
     font-size: 24px;
 }
